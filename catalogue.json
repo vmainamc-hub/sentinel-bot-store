@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "bots": [
+    {
+      "id": "recover-under-bandwagon",
+      "name": "Recover Under Bandwagon",
+      "description": "DBot digit over/under recovery strategy using a three-tick sequence and configurable recovery settings.",
+      "category": "Over/Under Recovery",
+      "market": "1HZ25V",
+      "tags": ["Digits", "Under", "Recovery", "3-Tick", "Martingale"],
+      "version": "1.0",
+      "author": "Sentinel Bot Store",
+      "icon": "⬇️",
+      "xml_url": "https://raw.githubusercontent.com/vmainamc-hub/sentinel-bot-store/main/4.%20Recover%20Under%20Bandwagon.xml"
+    },
+    {
+      "id": "recover-over-bandwagon",
+      "name": "Recover Over Bandwagon",
+      "description": "DBot digit over/under recovery strategy with a three-tick sequence and configurable recovery settings.",
+      "category": "Over/Under Recovery",
+      "market": "1HZ25V",
+      "tags": ["Digits", "Over", "Recovery", "3-Tick", "Martingale"],
+      "version": "1.0",
+      "author": "Sentinel Bot Store",
+      "icon": "⬆️",
+      "xml_url": "https://raw.githubusercontent.com/vmainamc-hub/sentinel-bot-store/main/5.%20Recover%20Over%20Bandwagon.xml"
+    },
+    {
+      "id": "mv-wealth-generator",
+      "name": "MV Wealth Generator Bot",
+      "description": "DBot digit over/under strategy with configurable entry prediction, stake, profit target and stop-loss controls.",
+      "category": "Digits",
+      "market": "R_25",
+      "tags": ["Digits", "Over/Under", "Entry Digit", "Stop Loss", "Martingale"],
+      "version": "1.0",
+      "author": "Sentinel Bot Store",
+      "icon": "💠",
+      "xml_url": "https://raw.githubusercontent.com/vmainamc-hub/sentinel-bot-store/main/MV%20Wealth%20Generator%20Bot..xml"
+    }
+  ]
+}
